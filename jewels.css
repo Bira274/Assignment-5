@@ -1,0 +1,21 @@
+body {
+    background-image: url(./images/bible.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+header h1 {
+    color: #7D0633;
+    font-size: 60px;
+}
+.banner img {
+    width: 150px;
+    height: 150px;
+}
+.entry {
+    color: rgba(230, 62, 109, 0.4);
+    font-size: 20px;
+}
+footer p {
+    color: darkblue;
+}
