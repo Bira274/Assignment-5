@@ -5,16 +5,29 @@ body {
     background-attachment: fixed;
 }
 header h1 {
-    color: #7D0633;
-    font-size: 60px;
+    color: gold;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 50px;
+    padding-top: 70px;
 }
-.banner img {
-    width: 150px;
-    height: 150px;
+.banner {
+    width: 200px;
+    height: 200px;
+    float:right;
+    padding-top: 1px;
+    margin-right: 100px;
+}
+.post {
+    color: rgba(255, 255, 0, 0.4);
+    font-size: 25px;
 }
 .entry {
-    color: rgba(230, 62, 109, 0.4);
-    font-size: 20px;
+    color: rgba(247, 7, 118,.4);
+    font-size: 25px;
+}
+b {
+    color: rgba(255, 255, 0, 0.4);
 }
 footer p {
     color: darkblue;
